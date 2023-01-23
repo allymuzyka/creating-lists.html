@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1> HTML Lists</h1>
+<ul>
+    <li>One</li>
+    <li>Two</li>
+    <li>Three</li>
+</ul>
+
+  <ol>
+    <li>Four</li>
+    <li>Five</li>
+    <li>Six</li>
+  </ol>
+  <p>One</p>
+<p style="text-indent: 25px;"> The first non-zero number
+<p>Two</p>
+<p style="text-indent: 25px;"> The number after one
+<p>Three</p>
+<p style="text-indent: 25px;"> To get ready
+<p>Four</p>
+<p style="text-indent: 25px;"> Now, go, cat, go!
+</body>
+</html>
